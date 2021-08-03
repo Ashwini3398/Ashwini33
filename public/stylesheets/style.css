@@ -1,32 +1,35 @@
 body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-
+    padding-top: 100px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
 a {
-  color: #00B7FF;
-}
-#home{
-  margin-top: 90px;
-}
-.address-section{
-  padding-left: 50px;
-}
-.card1
-{
-  width: 18rem;
-  margin-left:150px;
+    color: #00B7FF;
 }
 
-#copyright{
-  background-color: rgba(24, 24, 24, 0.2);
+#home {
+    margin-top: 90px;
 }
-#message{
-  height: 10rem;
+
+.address-section {
+    padding-left: 50px;
 }
-#ashwiniimg{
-  width:400px;
-  height: 400px;
-  border-radius:50%;
+
+.card1 {
+    width: 18rem;
+    margin-left: 150px;
+}
+
+#copyright {
+    background-color: rgba(24, 24, 24, 0.2);
+}
+
+#message {
+    height: 10rem;
+}
+
+#ashwiniimg {
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
 }
